@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<title>Project001</title>
+<body bgcolor="green">
+
+<h1>Apache Maven Intro</h1>
+<p> Introduction to Maven for Beginners in 2023
+Apache Maven manages all the processes, like building, documentation, releasing, and distribution in project management.
+The tool simplifies the way of project building by increasing the performance of the project and the building process.
+The task of downloading dependencies and JAR files is automated.</p>
+
+</body>
+</html>
