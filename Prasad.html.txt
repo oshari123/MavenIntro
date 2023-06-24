@@ -11,3 +11,13 @@ The task of downloading dependencies and JAR files is automated.</p>
 
 </body>
 </html>
+
+=======================================
+Apache Maven:
+
+Maven's primary goal is to allow a developer to comprehend the complete state of a development effort in the shortest period of time. In order to attain this goal, Maven deals with several areas of concern:
+
+Making the build process easy
+Providing a uniform build system
+Providing quality project information
+Encouraging better development practices
